@@ -5,44 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ckolem 
-/
-ckolem
-Public
-Code
-Issues
-7
-Pull requests
-17
-Actions
-Projects
-Wiki
-Security
-Insights
-ckolem/README.md
-@colem.z
-ckolem Update README.md
-Latest commit 3703d0e on 17 Nov 2021
- History
- 1 contributor
-30 lines (26 sloc)  3.1 KB
+- 🔭 I’m currently working on Back-End
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: isaquecolem55@gmail.com
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/ckolem">
@@ -70,20 +36,6 @@ Latest commit 3703d0e on 17 Nov 2021
   <a href = "mailto:isaquecolem55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/icolem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ckolem/ckolem/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
