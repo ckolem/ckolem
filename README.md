@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ckolem/ckolem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: isaquecolem55@gmail.com
-- 😄 Pronouns: he/him
-
 <div align="center">
   <a href="https://github.com/ckolem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ckolem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
