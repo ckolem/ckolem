@@ -20,6 +20,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="330em" src="https://github-readme-stats.vercel.app/api?username=isaquecolem&show_icons=true&theme=vision-friendly-dark" alt="isaquecolem's stats"/>
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecolem&layout=compact&theme=vision-friendly-dark" alt="isaquecolem's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=isaquecolem&show_icons=true&theme=vision-friendly-dark" alt="isaquecolem's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecolem&layout=compact&theme=vision-friendly-dark" alt="isaquecolem's most languages"/>
 </p>
